@@ -1,2 +1,1 @@
 # myWorks
-/home/gumh/Files_li/DIGITS_CAFFE/Programs/InferenceCaffe/SegmentationHpmap/save_infer_images/segmentation-imags/20190126_041003_video_image_frame_1.jpg
