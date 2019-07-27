@@ -1,6 +1,3 @@
-# myWorks
-![image](https://github.com/yongjingli/myWorks/blob/master/hello.jpg)
-
 # demo1
 ![image](https://github.com/yongjingli/myWorks/blob/master/videos/Road_segmentation.gif)
 
