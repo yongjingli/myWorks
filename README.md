@@ -1,5 +1,3 @@
-# demo_yolov3_trafficsign_trafficlight_eval
-mAP:0.904
 
 ![image](https://github.com/yongjingli/myWorks/blob/master/images/yolov3_eval_result.png)
 
